@@ -14,7 +14,7 @@ _Venta de:_
 bermudas, calzado, etc)_
 
 --Accesorios (fundas, paraguas, 
-toallas)_
+toallas, pelotas, tee, levanta pique)_
 
 --Palos (hierros, putters, drivers)_
 
@@ -37,9 +37,9 @@ Cecilia Bourdillon
 Bruno
 ```
 ```
-Francisco
-
+Francisco Montero
 ```
+26 años. Ingeniero Agrónomo. Buscando y aprendiendo nuevas herramientas con las que pueda sumar valor a mi carrera actual. 
 ```
 
 ## Clientes a los que apuntan:
@@ -48,8 +48,7 @@ Francisco
 _Aspectos socio demográficos:_
 
 ```
-La página está orientada a mujeres y hombres que residan en Argentina, entre 20 y 60 años que gusten vestir acordes a la práctica del 
-deporte. 
+La página está orientada a mujeres y hombres que residan en Argentina, ya sean jóvenes o adultos que gusten vestir acordes a la práctica del deporte. 
 ```
 
 _Aspectoss socioeconómicos:_
