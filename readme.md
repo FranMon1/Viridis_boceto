@@ -34,8 +34,10 @@ Cecilia Bourdillon
 ```
 42 años: Locutora de radio y televisión. En búsqueda de una nueva salida laboral que me permita trabajar por mi cuenta.
 ```
-Bruno
+Bruno Gazzera
 ```
+29 años, egresado de Diseño Industrial de la Universidad de Buenos Aires. Me adentré en el mundo de la programación por su posibilidad de creación. En búsqueda de un cambio de industria laboral más afín a mis gustos.
+
 ```
 Francisco Montero
 ```
@@ -84,4 +86,5 @@ https://www.glamit.com.ar/
 https://www.aprendiendogolf.com/clases-de-golf-online/ 
 https://www.standrews.com/ 
 https://thegolfershop.com.ar/
+https://we.golf/
 ```
